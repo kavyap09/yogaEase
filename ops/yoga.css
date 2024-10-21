@@ -1,0 +1,57 @@
+.yoga-body{
+    margin-top: 80px;
+    height:400px;
+    background-color: #D4E6E4;
+}
+.yoga-text{
+    text-align: left;
+    padding:20px;
+    width:500px;
+    margin:30px;
+}
+.yoga-text h4{
+    text-shadow: 2px 2px rgba(211, 194, 194, 0.653);
+}
+.round-box{
+    display:flex;
+    flex-wrap: wrap;
+}
+.rounds{
+    width:380px;
+    height:400px;
+    margin:20px;
+    background-color: rgba(255, 255, 0, 0.482);
+    border-radius: 50%;
+}
+.round-card{
+    width:500px;
+    padding:15px;
+    text-align: center;
+    background-color:rgb(234, 228, 228);
+    margin:50px;
+    border-radius: 30px;
+    font-size: 20px;
+}
+.rounds:hover{
+    box-shadow: 0 8px 15px black
+}
+.rcard-body{
+    padding:2px;
+}
+.suryaNam{
+    background-image: url(/imgs/surya\ nam.png);
+    background-size: cover;
+}
+.pranayam{
+    background-image: url(/imgs/prana.jpeg);
+    background-size: cover;
+    height:480px;
+    width:450px;
+    margin:15px;
+}
+.yoga-beg{
+    background-color: aqua;
+    background-image: url(/imgs/sitting.jpeg);
+    background-size: cover;
+    width:400px;
+}

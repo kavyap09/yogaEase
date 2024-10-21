@@ -1,0 +1,22 @@
+.body{
+    height:fit-content
+}
+.body-head{
+    background-color: rgba(249, 199, 155, 0.642);
+    height:60px; 
+    padding: 12px; 
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.card-link {
+    text-decoration: none;
+    color:#2FA699;
+    font-weight: 600;
+}
+.issue-card{
+    height:fit-content !important;
+    width:25rem;
+}

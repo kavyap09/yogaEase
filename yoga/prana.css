@@ -1,0 +1,42 @@
+.text{
+    width:60%;   
+} 
+.prana-box{
+    width:400px;
+    height:20rem;
+   background-image: url(/prana/pranayam\ 1.jpg);
+   background-size: cover;
+} 
+ .body-content{
+    display:flex;
+    justify-content: space-evenly
+ }
+ .desc-box{
+    height:fit-content;
+    background-color: rgba(192, 255, 242, 0.478);
+    padding:30px;
+    color:black;
+ }
+ .pranas{
+    display: flex;
+    width:fit-content;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin:40px;
+ }
+ .pranayam-box{
+    padding:20px;
+    width:550px;
+    /* height:fit-content; */
+    margin:20px;
+    border:2px solid rgba(0, 0, 0, 0.455);
+    border-radius: 15px;
+ }
+ .prana-img img{
+   border-radius: 8px;
+    width:60%;
+     margin:20px;
+ }
+ .prana-img img:hover{
+   border:2px solid rgb(82, 79, 223);
+ }

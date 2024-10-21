@@ -1,0 +1,17 @@
+.abt-box{
+    width:60%;
+    height: 50%;
+    padding: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    border-radius: 40px;
+    font-size: 20px;
+    background-color: #82d4ca;
+    /* opacity: 0.4; */
+}
+.main-box{
+    height: 100vh;
+    margin:0;
+    background-color: rgb(30, 90, 26);
+}
